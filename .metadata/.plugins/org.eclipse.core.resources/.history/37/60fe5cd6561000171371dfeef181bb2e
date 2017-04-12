@@ -1,0 +1,10 @@
+package Headache;
+
+public class MajorPain {
+
+	public static void main(String[] args) {
+		System.out.println ("Hello Parasites!");
+
+	}
+
+}

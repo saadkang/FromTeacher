@@ -1,0 +1,11 @@
+package oop.polymorphism;
+
+public class TestShape {
+
+	public static void main(String[] args) {
+		ShapeCalculator shape = new ShapeCalculator();
+		int resultOfLine = shape.areaOfLand(10, 15);
+
+	}
+
+}

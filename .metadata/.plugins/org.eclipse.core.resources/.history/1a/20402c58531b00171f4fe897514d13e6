@@ -1,0 +1,15 @@
+package oop.encapsulation;
+
+public class PersonInfoApplication {
+
+	public static void main(String[] args) {
+		Person p1 = new Person();
+		p1.setName("Saad");
+		p1.setDOB("12-04-1990");
+		p1.setSSN("000-00-0000");
+		p1.setAddress("Cary North Carolina");
+		System.out.println(p1.getName()+" "+p1.getDOB()+" "+p1.getSSN()+" "+p1.getAddress());
+
+	}
+
+}

@@ -1,0 +1,11 @@
+package superman;
+
+public class PrintingStuff {
+
+	public static void main(String[] args) {
+		SmartWatch g1 = new SmartWatch();
+		
+
+	}
+
+}

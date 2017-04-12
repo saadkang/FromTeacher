@@ -1,0 +1,20 @@
+package keywords;
+
+public class Car {
+
+	String carModel;
+	int year;
+	
+	public Car(){
+		System.out.println("This is Car Object");
+	}
+	public Car(String carModel){
+		this.carModel = carModel;
+		System.out.println(this.carModel);
+	}
+	public Car(String carModle, int year){
+		this.carModel = carModel;
+		this.year = year;
+		
+	}
+}

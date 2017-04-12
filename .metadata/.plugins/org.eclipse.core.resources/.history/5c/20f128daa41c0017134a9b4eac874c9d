@@ -1,0 +1,12 @@
+package superman;
+
+public class Generation1 extends SmartWatch{
+		public Generation1(){
+			super();
+			System.out.println("My Watch does not have a leather straps");
+		}
+		public static void main(String[] args) {
+	}
+
+
+}

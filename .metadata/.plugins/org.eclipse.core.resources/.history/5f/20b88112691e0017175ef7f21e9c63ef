@@ -1,0 +1,11 @@
+package keywords;
+
+public class TestCar {
+
+	public static void main(String[] args) {
+		ElectricCar model3 = new ElectricCar("Model X", 2016);
+		//ElectricCar model2 = new ElectricCar();
+		model3.getCarInfo();
+	}
+
+}

@@ -1,0 +1,11 @@
+package superman;
+
+public class PrintingStuff {
+
+	public static void main(String[] args) {
+		Generation1 g1 = new Generation1("leather", 2);
+		g1.getAnser();
+
+	}
+
+}

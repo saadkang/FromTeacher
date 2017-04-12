@@ -1,0 +1,17 @@
+package exception;
+
+public class TestMath {
+
+	public static void main(String[] args) {
+		Math math = new Math();
+		try{
+		int result = math.division(10, 0);
+		}catch(Exception ex){
+			System.out.println("You are dividing a number by zero");
+			ex.printStackTrace();
+		}
+		System.out.println(result);
+
+	}
+
+}

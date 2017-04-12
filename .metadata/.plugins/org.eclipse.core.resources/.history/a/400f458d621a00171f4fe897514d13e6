@@ -1,0 +1,9 @@
+package oop.abstraction;
+
+public class ToyotaCar {
+	
+	public void driveMiles(){
+		System.out.println("Car can drive 100 mph");
+	}
+
+}

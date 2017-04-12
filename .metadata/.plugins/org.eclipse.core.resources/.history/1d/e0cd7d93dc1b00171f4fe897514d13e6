@@ -1,0 +1,11 @@
+package oop.polymorphism;
+
+public class ShapeCalculator {
+	int restult = 10;
+	
+	public int areaOfLand(){
+		int total = 0;
+		return total;
+	}
+
+}

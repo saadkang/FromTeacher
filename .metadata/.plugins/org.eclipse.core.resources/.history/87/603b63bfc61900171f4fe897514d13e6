@@ -1,0 +1,18 @@
+package keywords;
+
+public class TestDriveWay {
+
+	public static void main(String[] args) {
+		
+		DriveWay driveWayOfAhmed = new DriveWay();
+		int sizeOfAhmedDriveWay = driveWayOfAhmed.getDriveWaySize();
+		System.out.println("Ahmed's Drive Way: "+sizeOfAhmedDriveWay);
+		
+		DriveWay driveWayOfSaad = new DriveWay();
+		driveWayOfSaad.getDriveWaySize();
+		int sizeOfSaadDriveWay = driveWayOfSaad.getDriveWaySize();
+		System.out.println("Saad's Drive Way: "+sizeOfSaadDriveWay);
+
+	}
+
+}

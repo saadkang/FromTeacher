@@ -1,0 +1,12 @@
+package exception;
+
+public class TestMath {
+
+	public static void main(String[] args) {
+		Math math = new Math();
+		int result = math.division(10, 5);
+		System.out.println(result);
+
+	}
+
+}

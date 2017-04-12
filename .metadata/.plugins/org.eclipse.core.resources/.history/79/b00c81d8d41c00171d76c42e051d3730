@@ -1,0 +1,9 @@
+package superSubClasses;
+
+public class Manager {
+
+	public void setBonus(){
+		bonus = b;
+	}
+	private double bonus;
+}

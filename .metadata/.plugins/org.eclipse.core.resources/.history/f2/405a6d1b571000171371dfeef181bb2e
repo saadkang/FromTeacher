@@ -1,0 +1,11 @@
+package Headache;
+
+public class MajorPain {
+
+	public static void main(String[] args) {
+		System.out.println ("Hello Parasites!");
+		System.out.println("I was thinking, I can write the Java code");
+
+	}
+
+}

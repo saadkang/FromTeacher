@@ -1,0 +1,17 @@
+package homeWork4;
+
+public class Production {
+
+	public static void main(String[] args) {
+		
+		Generation3 g3 = new Generation3();
+		g3.size();
+		g3.color();
+		g3.straps();
+		g3.bluetooth();
+		g3.camera();
+		g3.batteryLife();
+
+	}
+
+}

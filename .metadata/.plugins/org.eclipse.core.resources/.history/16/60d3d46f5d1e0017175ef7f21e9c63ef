@@ -1,0 +1,12 @@
+package keywords;
+
+public class Car {
+    String carModel;
+	public Car(){
+		System.out.println("This is Car Object");
+	}
+	public Car(String carModel){
+		this.carModel = carModel;
+		System.out.println("This is Car Object");
+	}
+}

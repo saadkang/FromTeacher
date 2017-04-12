@@ -1,0 +1,10 @@
+package homeWork4;
+
+public interface BuildingPhone {
+
+	public void size();
+	
+	public void color();
+	
+	public void 
+}

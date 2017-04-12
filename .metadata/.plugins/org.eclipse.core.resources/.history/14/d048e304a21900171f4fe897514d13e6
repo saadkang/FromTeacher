@@ -1,0 +1,14 @@
+package constructorTestWithMethod;
+
+public class CWithM {
+	
+	public CWithM(){
+		
+		//public void add(){
+			System.out.println("This is my attempt of creating multiple methods "
+					+ "inside a constructor and I guess it can't be done");
+		}
+		
+
+	}
+//}

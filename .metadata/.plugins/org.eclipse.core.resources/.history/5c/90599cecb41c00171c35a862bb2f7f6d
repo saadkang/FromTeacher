@@ -1,0 +1,15 @@
+package superman;
+
+public class Generation1 extends SmartWatch{
+
+	public Generation1(){
+		System.out.println("I'm learning");
+	}
+		
+
+	public Generation1(String straps, int b) {
+		super(straps, b);
+		
+		
+	}
+}

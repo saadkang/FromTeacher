@@ -1,0 +1,11 @@
+package superman;
+
+public class SmartWatch {
+
+	public SmartWatch(){
+		
+	}
+	public SmartWatch(String straps){
+		System.out.println("My watch has leather straps");
+	}
+}

@@ -1,0 +1,10 @@
+package superman;
+
+public class SmartWatch {
+
+	public SmartWatch(String straps, int b){
+		straps = "leather";
+		b = 2;
+		System.out.println("My Smart Watch has "+b+" straps one of which is "+straps);
+	}
+}

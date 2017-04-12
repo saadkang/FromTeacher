@@ -1,0 +1,13 @@
+package superman;
+
+public class PrintingStuff {
+
+	public static void main(String[] args) {
+		SmartWatch g1 = new SmartWatch();
+		g1.getAnser();
+		Generation1 g3 = new Generation1("leather", 2);
+		
+
+	}
+
+}

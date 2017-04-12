@@ -1,0 +1,12 @@
+package oop.abstraction;
+
+public abstract class SemiCar {
+	
+	public void engineByFuel(){
+		System.out.println("Run by oil");
+	}
+	
+	public abstract void electricVehicle();
+	
+
+}

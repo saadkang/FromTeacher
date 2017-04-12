@@ -1,0 +1,9 @@
+package oop.inheritance;
+
+public class Son extends Father{
+	
+	public void sports(){
+		System.out.println("He plays basketball");
+	}
+
+}

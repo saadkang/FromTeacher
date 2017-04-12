@@ -1,0 +1,17 @@
+package oop.abstraction;
+
+public class TestDrive {
+
+	public static void main(String[] args) {
+		
+		ToyotaCar toyotacar = new ToyotaCar();
+		toyotacar.wheel();
+		
+		
+		SemiCar semicar = new ToyotaCar();
+		semicar.electricVehicle();
+		
+		
+	}
+
+}

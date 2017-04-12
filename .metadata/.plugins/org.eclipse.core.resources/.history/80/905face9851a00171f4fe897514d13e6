@@ -1,0 +1,31 @@
+package oop.abstraction;
+
+public class ToyotaCar extends SemiCar{
+	
+	public void driveMiles(){
+		System.out.println("Car can drive 100 mph");	
+	}
+	public void sedan(){
+		System.out.println();
+	}
+	
+	public void start() {
+		
+		
+	}
+	
+	public void manualBrake() {
+		
+		
+	}
+	
+	public void wheel() {
+		
+		
+	}
+	
+	public void electricVehicle() {
+		
+		
+	}
+}

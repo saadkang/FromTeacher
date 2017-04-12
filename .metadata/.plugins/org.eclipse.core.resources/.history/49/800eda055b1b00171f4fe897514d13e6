@@ -1,0 +1,18 @@
+package oop.inheritance;
+
+public class TestGeneration {
+
+	public static void main(String[] args) {
+		
+		GrandFather gf = new GrandFather();
+		System.out.println(gf.getHeight());
+		System.out.println(gf.getColor());
+		
+		Father father = new Father();
+		father.atheleticSkills();
+		father.hobby();
+		
+
+	}
+
+}
